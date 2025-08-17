@@ -57,7 +57,8 @@ source("scripts/NSCLC_scRNAseq_pipeline.R")
 
 Presentation
 
-Slides explaining the workflow and key results: 📎 [View project slides](https://github.com/Ifthekarhussain/Single-cell-RNA-seq-analysis-of-lung-cancer-NSCLC-/blob/main/Introduction%20to%20Single-Cell%20RNA-Seq%20with%20Seurat.pptx)
+Slides explaining the workflow and key results: 📊 [Click here to view the project presentation (PPTX)](https://github.com/Ifthekarhussain/Single-cell-RNA-seq-analysis-of-lung-cancer-NSCLC-/blob/main/Introduction%20to%20Single-Cell%20RNA-Seq%20with%20Seurat.pptx?raw=true)
+
 
 
 
