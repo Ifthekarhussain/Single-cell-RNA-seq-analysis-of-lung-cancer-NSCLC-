@@ -20,7 +20,6 @@ It is based on a dataset from **non-small cell lung cancer (NSCLC)** and demonst
 This analysis includes:
 - Preprocessing of 10X Genomics data  
 - Quality control (`nFeature_RNA`, `percent.mt`)
-  ![Uploading image.png…]()
 - Identification of highly variable genes  
 - Clustering (SNN-based) and UMAP visualization  
 - Cell type annotation with **SingleR + celldex**  
