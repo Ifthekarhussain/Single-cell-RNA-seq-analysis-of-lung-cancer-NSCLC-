@@ -57,7 +57,8 @@ source("scripts/NSCLC_scRNAseq_pipeline.R")
 
 Presentation
 
-Slides explaining the workflow and key results:
+Slides explaining the workflow and key results: 📎 [View presentation slides](docs/Introduction%20to%20Single-Cell%20RNA-Seq%20with%20Seurat.pptx)
+
 
 
 
